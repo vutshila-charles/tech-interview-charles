@@ -1,4 +1,4 @@
-# Fullstack junior / mid devoper - techcnical assessment
+# Fullstack junior / mid devoper - technical assessment
 
 
 ### Tickets
